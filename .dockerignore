@@ -1,0 +1,12 @@
+./docker
+./vendor
+./web/app/themes/twentytwentythree
+./web/wp
+./.dockerignore
+./.env
+./.git
+./.gitignore
+./.localrun
+./phpcs.xml
+./README.md
+./wp-cli.yml
